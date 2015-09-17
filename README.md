@@ -1,2 +1,2 @@
 # fuzzbuzz-python
-pythonを使って書いてみた
+pythonを使って書いた
